@@ -17,10 +17,10 @@ public class amstrongNum {
 
 		}
 		if(sum == temp) {
-			System.out.println("It is a Armstrong number");
+			System.out.println("Armstrong number");
 		}
 		else {
-			System.out.println("It is Not a Armstrong number");
+			System.out.println("Not a Armstrong number");
 		}
 		System.out.println(sum);
 	}
